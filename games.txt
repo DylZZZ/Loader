@@ -1,0 +1,5 @@
+local ids = {
+    [0] = loadstring(game:HttpGet("https://site.com")),
+    [1] = loadstring(game:HttpGet("https://site.com/v2")),
+}
+return(ids)
