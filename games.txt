@@ -1,3 +1,3 @@
-{
-   "8737602449":{"name":"Pls Donate","Script":"https://raw.githubusercontent.com/DylZZZ/Loader/main/games/teset.lua","Working":true}
+local ids = {
+	[1] = loadstring(game:HttpGet("sdf"))()
 }
