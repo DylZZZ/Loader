@@ -1,4 +1,4 @@
 local ids = {
-    [0] = loadstring(game:HttpGet("https://site.com")),
+    [8737602449] = loadstring(game:HttpGet("https://raw.githubusercontent.com/DylZZZ/Loader/main/games/teset.lua")),
 }
 return(ids)
